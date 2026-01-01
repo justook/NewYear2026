@@ -13,7 +13,9 @@ Midnight Leap 2026 是一个现代化的React应用，使用TypeScript和Vite构
 - 🌟 使用GSAP和Tailwind CSS实现的流畅动画
 
 ## 预览
-![](https://pic1.imgdb.cn/item/69563101b8f555c5b4ae0b01.gif)
+<div align="center">
+<img width="400" height="" alt="GHBanner" src="https://pic1.imgdb.cn/item/69563101b8f555c5b4ae0b01.gif" alt="preview.gif" />
+</div>
 
 ## 技术栈
 
@@ -23,5 +25,6 @@ Midnight Leap 2026 是一个现代化的React应用，使用TypeScript和Vite构
 - Tailwind CSS
 - GSAP (GreenSock Animation Platform)
 - Canvas Confetti (烟花效果)
+
 
 
